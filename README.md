@@ -1,10 +1,15 @@
 
-# Plant Disease Classfication
+# UGV (Unmanned Ground Vehicle) based Agriculture solution
 
-An end to end system which can identiy disease in a different plants. It takes input in the form of image(image of a plant leaf) and then classifies the leaf with different disease it may be infected with. One can also use camera of respective device in which the app in running, to take the picture of a potato leaf in real time and classify the plant. There are altogether 15 classes of 3 plants(potato, tomato and peppel_bell) which can be predicted using this classifer. In addition to the classification the system also determines its confidence on each prediction.
+UGVs can be operated with or without human presence. UGVs can be used in different areas including agriculture. Here we are focusing only on agriculture. There are a variety of purposes where it can be helpful in agriculture such as soil sampling, irrigation management, precision spraying, mechanical weeding, crop harvesting, and disease detection, etc.
 
-# About the Model
-## Model Architecture
+Main objective is: -
+1. Consider one use case such as tomato crop disease detection i.e., you will collect the different data samples for healthy and infected crops, then you will use those image samples for training our deep learning model.
+2. Once the model is ready, you will deploy that model using UGV which will collect the images from the field and classify the crops into various categories i.e., whether that crop is healthy or infected with a certain disease.
+3. The other one is weather prediction; this will forecast the weather of that area which will help farmers to give the information about temperature, moisture, rain forecast, etc., and will help to make decisions accordingly.
+
+# About the Models
+## CNN Architecture
 ![model](https://user-images.githubusercontent.com/66490787/219868725-9701133d-2f97-4fac-8f8b-c6108811dbdf.jpg)
 
 
