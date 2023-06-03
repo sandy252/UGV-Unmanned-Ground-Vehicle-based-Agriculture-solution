@@ -15,11 +15,12 @@ Main objective is: -
 
 ## ScreenShots
 ### Disease classifier 
-![Screenshot (79)](https://github.com/sandy252/UGV-Unmanned-Ground-Vehicle-based-Agriculture-solution/assets/66490787/9db9b321-143b-42a4-9665-f236900f0241)
-![Screenshot (80)](https://github.com/sandy252/UGV-Unmanned-Ground-Vehicle-based-Agriculture-solution/assets/66490787/6183c113-d4f0-465e-9ed2-604d11b5e3e4)
+![Screenshot (e79)](https://github.com/sandy252/UGV-Unmanned-Ground-Vehicle-based-Agriculture-solution/assets/66490787/c7275a42-c17e-432a-a190-801179471d34)
+![Screenshot (80)](https://github.com/sandy252/UGV-Unmanned-Ground-Vehicle-based-Agriculture-solution/assets/66490787/70377a71-8097-415b-8d0e-814f8ac83098)
+
 
 ### crop recommender
-![Screenshot (81)](https://github.com/sandy252/UGV-Unmanned-Ground-Vehicle-based-Agriculture-solution/assets/66490787/0127b866-e665-4daf-87f5-6d565f5ab440)
+![Screenshot e(81)](https://github.com/sandy252/UGV-Unmanned-Ground-Vehicle-based-Agriculture-solution/assets/66490787/8dc46319-7d05-4229-a247-08868a9f092c)
 
 
 ## Run Locally
