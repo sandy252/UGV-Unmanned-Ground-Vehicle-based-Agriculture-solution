@@ -13,14 +13,13 @@ Main objective is: -
 ![model](https://user-images.githubusercontent.com/66490787/219868725-9701133d-2f97-4fac-8f8b-c6108811dbdf.jpg)
 
 
-
-
-
 ## ScreenShots
-### Home 
-![Screenshot (63)](https://user-images.githubusercontent.com/66490787/219869302-ef00bf04-9bb4-4f20-94fb-35120788ae8f.png)
-### predictor
-![Screenshot (64)](https://user-images.githubusercontent.com/66490787/219869310-f15f7b73-4792-4145-9a5e-fc0268a6804c.png)
+### Disease classifier 
+![Screenshot (79)](https://github.com/sandy252/UGV-Unmanned-Ground-Vehicle-based-Agriculture-solution/assets/66490787/9db9b321-143b-42a4-9665-f236900f0241)
+![Screenshot (80)](https://github.com/sandy252/UGV-Unmanned-Ground-Vehicle-based-Agriculture-solution/assets/66490787/6183c113-d4f0-465e-9ed2-604d11b5e3e4)
+
+### crop recommender
+![Screenshot (81)](https://github.com/sandy252/UGV-Unmanned-Ground-Vehicle-based-Agriculture-solution/assets/66490787/0127b866-e665-4daf-87f5-6d565f5ab440)
 
 
 ## Run Locally
@@ -28,13 +27,13 @@ Main objective is: -
 Clone the project
 
 ```bash
-  git clone https://github.com/sandy252/Potato_Disease_Classifier.git
+  git clone https://github.com/sandy252/UGV-Unmanned-Ground-Vehicle-based-Agriculture-solution.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Potato_Disease_Classifier
+  cd UGV-Unmanned-Ground-Vehicle-based-Agriculture-solution
 ```
 
 Install dependencies
@@ -52,7 +51,7 @@ Start the server
 
 
 
-## Authors
+## Author
 
 - [Sandeep Kashyap](https://www.linkedin.com/in/sandeep-kashyap-aa1545170/)
 
