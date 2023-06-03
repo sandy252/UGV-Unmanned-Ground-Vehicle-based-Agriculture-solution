@@ -8,8 +8,8 @@ Main objective is: -
 2. Once the model is ready, you will deploy that model using UGV which will collect the images from the field and classify the crops into various categories i.e., whether that crop is healthy or infected with a certain disease.
 3. The other one is weather prediction; this will forecast the weather of that area which will help farmers to give the information about temperature, moisture, rain forecast, etc., and will help to make decisions accordingly.
 
-# About the Models
-## CNN Architecture
+## About the Models
+### CNN Architecture
 ![model](https://user-images.githubusercontent.com/66490787/219868725-9701133d-2f97-4fac-8f8b-c6108811dbdf.jpg)
 
 
