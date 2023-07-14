@@ -1,12 +1,13 @@
+---
 title: Agriculture Solution
 emoji: 🏢
 colorFrom: red
 colorTo: indigo
 sdk: streamlit
 sdk_version: 1.21.0
-app_file: main.py
+app_file: app.py
 pinned: false
-
+---
 
 # UGV (Unmanned Ground Vehicle) based Agriculture solution
 
