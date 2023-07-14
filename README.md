@@ -72,4 +72,4 @@ Start the server
 
 ## Support
 
-For support, email kashyapsandeep252@gmail.com or join our Slack channel.
+For support, email kashyapsandeep252@gmail.com 
