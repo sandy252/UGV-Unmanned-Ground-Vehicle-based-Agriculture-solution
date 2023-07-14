@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://sandy252:$HF_TOKEN@huggingface.co/spaces/sandy252/agriculture_solution main
+        run: git push --force https://sandy252:$HF_TOKEN@huggingface.co/spaces/sandy252/agriculture_solution main
